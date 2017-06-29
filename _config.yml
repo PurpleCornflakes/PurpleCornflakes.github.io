@@ -14,11 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Purplecornflakes
-email: E0020420@u.nus.edu
+email: qingling@u.nus.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a space of ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://purplecornflakes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# If you're hosting your site at a Project repository on GitHub pages
+# (http://yourusername.github.io/repository-name)
+# and NOT your User repository (http://yourusername.github.io)
+# add the baseurl like this: "/repository-name"
 #twitter_username: jekyllrb
 github_username:  Purplecornflakes
 
