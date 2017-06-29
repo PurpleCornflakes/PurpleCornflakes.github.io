@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Purplecornflakes
+title: Ling's blog
 email: qingling@u.nus.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a space of ideas.
@@ -24,8 +24,8 @@ url: "http://purplecornflakes.github.io" # the base hostname & protocol for your
 # and NOT your User repository (http://yourusername.github.io)
 # add the baseurl like this: "/repository-name"
 #twitter_username: jekyllrb
-github_username:  Purplecornflakes
-
+github_username: Purplecornflakes
+author: 清灵
 # Build settings
 markdown: kramdown
 theme: minima # or jekyll-athena
