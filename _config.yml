@@ -29,8 +29,9 @@ author: 清灵
 # Build settings
 markdown: kramdown
 theme: minima # or jekyll-athena
-gems:
+plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
