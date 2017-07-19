@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 你也想你了？
-category: love
+category: Love
 ---
 
 `“我出来休息啦”“你在干嘛呢”`
