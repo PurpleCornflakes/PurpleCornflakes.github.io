@@ -32,14 +32,19 @@ Attention is attracted to **Bold** things first, then the middle, then from up t
 
 ### An example of Newsletter
 
-<a name="tag1"><img src="/assets/img/Newsletter.JPG" height="200"/></a>
+<a name="tag1"><img src="/assets/img/Newsletter.JPG" height="300"/></a>
 
 ## 6 groups of typefaces
-
+ 
 <a name="tag1"><img src="/assets/img/typefaces.JPG" height="200"/></a>
+
+How to make use of the typefaces above?
+
 <a name="tag1"><img src="/assets/img/typeface_how_contrast.JPG" height="200"/></a>
 
-<a name="tag1"><img src="/assets/img/typeface_constrast.JPG" height="200"/></a>
+Here an some examples:
+
+<a name="tag1"><img src="/assets/img/typeface_constrast.JPG" height="400"/></a>
 
 1. Fancy Perfume: too many similarities
 2. Dogfood: good contrast
