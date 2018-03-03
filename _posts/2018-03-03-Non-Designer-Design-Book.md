@@ -19,7 +19,7 @@ Now, let's name 4 basic principles below.
 2. but we all need **Contrast** to emphasize
 3. and group related items as a visual unit -- **Proximity**.
 
-### notice your eye flow
+### Notice your Eye Flow
 A bad design of business card and a good one:
 
 <a name="tag1"><img src="/assets/img/bad_business_card.JPG" height="200"/></a>
