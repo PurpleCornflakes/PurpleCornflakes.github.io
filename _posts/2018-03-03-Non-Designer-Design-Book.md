@@ -21,11 +21,13 @@ Now, let's name 4 basic principles below.
 
 ### notice your eye flow
 A bad design of business card and a good one:
+
 <a name="tag1"><img src="/assets/img/bad_business_card.JPG" height="200"/></a>
 <a name="tag1"><img src="/assets/img/good_business_card.JPG" height="200"/></a>
 Attention is attracted to **Bold** things first, then the middle, then from up to down, left to right.
 
 ### let Picture do its work
+
 <a name="tag1"><img src="/assets/img/picture.JPG" height="200"/></a>
 
 ### An example of Newsletter
@@ -35,8 +37,9 @@ Attention is attracted to **Bold** things first, then the middle, then from up t
 ## 6 groups of typefaces
 
 <a name="tag1"><img src="/assets/img/typefaces.JPG" height="200"/></a>
-<a name="tag1"><img src="/assets/img/typeface_contrast.JPG" height="200"/></a>
 <a name="tag1"><img src="/assets/img/typeface_how_contrast.JPG" height="200"/></a>
+
+<a name="tag1"><img src="/assets/img/typeface_constrast.JPG" height="200"/></a>
 
 1. Fancy Perfume: too many similarities
 2. Dogfood: good contrast
