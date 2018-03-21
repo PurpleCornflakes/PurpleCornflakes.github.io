@@ -4,6 +4,10 @@ title: Solve ODE in python
 category: python
 ---
 
+I learned a bit more about python as a Teaching Assistant of prof. Lai's COS2000 course.
+
+This one is to solve ode in a [prey-predator model](https://en.wikipedia.org/wiki/Lotka–Volterra_equations).
+
 {% highlight Python linos %}
 from scipy.integrate import odeint
 import numpy as np
