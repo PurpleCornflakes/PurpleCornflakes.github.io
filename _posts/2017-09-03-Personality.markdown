@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 简里里《人性皆有裂隙》
-category: Psychology
+category: Personality Psychology
 ---
 ### 摘要
 

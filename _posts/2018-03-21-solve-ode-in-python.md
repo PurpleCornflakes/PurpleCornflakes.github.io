@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solve ODE in python
-category: python
+category: Python
 ---
 
 I learned a bit more about python as a Teaching Assistant of prof. Lai's COS2000 course.
