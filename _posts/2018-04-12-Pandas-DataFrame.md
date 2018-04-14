@@ -72,7 +72,9 @@ dtype: object
 For more about:
 - Viewing data
 - selection elements by label/position
-See ![10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/version/0.15/10min.html)
+
+See 
+![10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/version/0.15/10min.html)
 
 
 

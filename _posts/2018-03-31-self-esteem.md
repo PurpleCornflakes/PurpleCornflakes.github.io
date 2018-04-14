@@ -29,6 +29,6 @@ category: Individual Psychology
 1.星星之火可以燎原：
 2.多次带领红军取得胜利
 
-![如何看待失败]()
+![如何看待失败](https://purplecornflakes.github.io/individual%20psychology/2018/04/01/growth-or-fixed.html)
 
 
