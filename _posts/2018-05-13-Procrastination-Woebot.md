@@ -17,7 +17,7 @@ From my perspective, the last sentence also reveals a reason why we are not afra
 
 ### Why Procrastinate?
 
-**Procrastination** is what prevents me from doing anything. I hate that kind of guilty and disappointment after doing nothing but staring at my smartphone.
+**Procrastination** is what prevents me from doing anything that enriches,  entertains myself and experienceing mind flow, thereby harms my mental health. I hate that kind of guilty and disappointment after doing nothing but staring at my smartphone.
 
 **Why** does it happen all the time, then?
 
