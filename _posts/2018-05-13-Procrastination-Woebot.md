@@ -6,7 +6,7 @@ category: Individual Psychology
 ### Chat with Woebot
 <a name="tag1"><img src="/assets/img/procratination_Woebot.png" width="200"/></a>
 
-Below are sentences extracted from the video recommended by Woebot.
+Below are sentences extracted from the [video](https://www.youtube.com/watch?v=3QetfnYgjRE) recommended by Woebot.
 >The perfect distance of doing nothing is when you have the constant chance to do something.
 
 >I'm terrified that if I start, what I do would be horrible. I want things to be so amazing, and I know it cannot be, so it seems best not even to begin.
