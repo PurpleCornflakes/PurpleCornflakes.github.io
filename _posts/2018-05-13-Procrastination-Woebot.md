@@ -35,11 +35,13 @@ The SMART analysis gives perfect guide in the setting of objectives.
 
 1. Question-driven: While thinking about how to do research, it should be more like "try to understand how DeepWalk works and explain to Chen", rather than "read the papers related to graph embedding" which is too unrealistic and breeds procrastination.
 
-2. Between 10pm and 11pm, it's time to read and write about the book I read recently. 
+2. Between 10pm and 11pm, it's time to read and write about the book I read recently or do some coding, when I belong to myself. Maybe a little jogging/walk before this.
 
 3. After that, keep a diary, summarize what I've done in the day and jog down what to do tomorrow.(make use of TimeLine in google doc.)
 
 4. Reserve 10min before sleep to meditate.
+
+Note: *Achievable* is of great significance for me. If I set the goal to be too hard, I would doubt myself. Subsequently finishing the task would be painful. So start doing something first, then decide on how much time I would spend on it.
 
 
 
