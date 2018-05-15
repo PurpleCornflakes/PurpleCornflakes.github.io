@@ -33,11 +33,11 @@ The SMART analysis gives perfect guide in the setting of objectives.
 
 ### Applying *Specific* and *Time-bound* to myself
 
-1. In the morning before formal research, spend half an hour read the book *The square and the tower*.(to arouse my insterest towards research, look up references in zhihu is also great)
+1. Question-driven: While thinking about how to do research, it should be more like "try to understand how DeepWalk works and explain to Chen", rather than "read the papers related to graph embedding" which is too unrealistic and breeds procrastination.
 
-2. While thinking about how to do research, it should be more like "try to understand how DeepWalk works and explain to Chen", rather than "read the papers related to graph embedding" which is too unrealistic and breeds procrastination.
+2. Between 10pm and 11pm, it's time to read and write about the book I read recently. 
 
-3. Between 10pm and 11pm it's time to read and write about the book I read recently. After that, keep a diary, summarize what I've done in the day and jog down what to do tomorrow.(make use of TimeLine in google doc.)
+3. After that, keep a diary, summarize what I've done in the day and jog down what to do tomorrow.(make use of TimeLine in google doc.)
 
 4. Reserve 10min before sleep to meditate.
 
