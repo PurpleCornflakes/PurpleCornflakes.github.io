@@ -1,0 +1,67 @@
+---
+layout: post
+title: 
+category: Design
+--- 
+
+# 我的omnifocus 30min上手使用指南
+
+如果你有好多事有非常充足的动力想做，但却每天花好多时间在犹豫要做什么而最终什么都没有做，那么你需要学会*合理*安排任务。
+
+首先，决定要做一件事情，意味着
+1. 你确定它值得花费你那么多时间
+2. 你确定你有那么多时间和精力去做
+
+然后，配合Omni Focus这一任务管理工具，你需要思考任务的这些方面：
+1. Folder：我的任务大体分为哪几类？
+- 比如分为工作，爱好，娱乐，琐事
+- 以这些类别为名，建立Folder
+- 把相应的任务放进这些Folders
+
+2. Project：我们把一个相对大的任务叫做Project
+- 比如开发一个app，学习一门课程
+- 这个Project由哪几步构成？把每一步用一个item表示
+- Type of Project：Parallel：items可以同时进行；Sequential：items需要按顺序完成；Single-Action：items是无序散落的
+
+<a name="tag1"><img src="/assets/img/Projects.png" height="200"/></a>
+
+3. Tag：我要以何时，何地，以什么精神状态，用什么工具完成这些items
+- 我的tag设的比较简单
+- 时间（或地点）：只分白天（在办公室）和晚上（在寝室）
+- 精神状态：只分low energy和hight energy
+- 工具：我发现最好直接写在item标题里，因为太杂
+
+<a name="tag1"><img src="/assets/img/Tags.png" height="200"/></a>
+
+4. 如何设置完成item的时间
+- 对于开始时间固定的item，我会把开始的时间直接设成`due`
+- `custom notification`：其中有一些是开始前一天就要提醒我的（e.g. 开组会，听research讲座）；有些是开始的那天早上7:30am提醒我的（e.g. 聚餐，看牙医）
+- 还有一些item（比如完成作业）是我知道要用周末的时间完成但是没确定具体时间的，会设`due`，然后把estimated duration设为两天。这样它会在`due`前两天提醒我要开始做了。
+- 我每天都要决定明天要看的paper和写作主题，所以对于这种我不确定一天中具体什么时候做的item，我会`flag`它
+
+<a name="tag1"><img src="/assets/img/dues.png" height="300"/></a>
+
+5. 此时做什么
+- Forecast：概览今天/明天/以后的设置了`due`的items
+- Flag：我可以查看我的`flag`任务
+- 我白天查看对应tag为白天的`flag`的item和`due`，晚上查看对应tag为晚上的`flag`的item和`due`。根据精神状态选择此时是做tag为low energy的item还是high energy的item。
+
+完成后☑️的一瞬间。啊～神清气爽～
+
+
+## Review
+待续
+## Defer Until
+待续
+
+
+
+
+
+
+
+
+
+
+
+
