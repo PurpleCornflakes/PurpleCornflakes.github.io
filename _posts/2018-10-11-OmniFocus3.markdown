@@ -23,7 +23,7 @@ category: Design
 - 这个Project由哪几步构成？把每一步用一个item表示
 - Type of Project：Parallel：items可以同时进行；Sequential：items需要按顺序完成；Single-Action：items是无序散落的
 
-<a name="tag1"><img src="/assets/img/Projects.png" height="200"/></a>
+<a name="tag1"><img src="/assets/img/Projects.png" height="300"/></a>
 
 3. Tag：我要以何时，何地，以什么精神状态，用什么工具完成这些items
 - 我的tag设的比较简单
@@ -39,7 +39,7 @@ category: Design
 - 还有一些item（比如完成作业）是我知道要用周末的时间完成但是没确定具体时间的，会设`due`，然后把estimated duration设为两天。这样它会在`due`前两天提醒我要开始做了。
 - 我每天都要决定明天要看的paper和写作主题，所以对于这种我不确定一天中具体什么时候做的item，我会`flag`它
 
-<a name="tag1"><img src="/assets/img/dues.png" height="300"/></a>
+<a name="tag1"><img src="/assets/img/dues.png" height="100"/></a>
 
 5. 此时做什么
 - Forecast：概览今天/明天/以后的设置了`due`的items
