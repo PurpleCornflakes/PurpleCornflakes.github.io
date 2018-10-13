@@ -1,16 +1,20 @@
 ---
 layout: post
-title: 我的OmniFocus3 30min上手使用指南
+title: 30min上手任务管理：OmniFocus3
 category: Design
 --- 
 
-如果你有好多事有非常充足的动力想做，但却每天花好多时间在犹豫要做什么而最终什么都没有做，那么你需要学会*合理*安排任务。
+OmniFocus依据Getting Things Done的理念设计，是一款帮助我们进行任务管理的工具。
 
-首先，决定要做一件事情，意味着
-1. 你确定它值得花费你那么多时间
-2. 你确定你有那么多时间和精力去做
+Note：OF3的Mac端有student discount（如果是从官网下载安装，而非AppStore），ios端没有。
 
-然后，配合Omni Focus这一任务管理工具，你需要思考任务的这些方面：
+>The GTD method rests on the idea of moving planned tasks and projects out of the mind by recording them externally and then breaking them into actionable work items. This allows one to focus attention on taking action on tasks, instead of recalling them.
+
+> 换言之，将任务在头脑以外记录下来，以帮助人们专注于做事情本身，而非exhaustively think about “我要做什么”。
+
+所以，时刻把这一原则谨记在心，尽可能以简单的方式实现任务管理，避免被OF3这个工具可以实现的复杂功能牵着鼻子走。
+
+配合Omni Focus这一任务管理工具，我思考了任务的这些方面：
 #### Folder：我的任务大体分为哪几类？
 - 比如分为工作，爱好，娱乐，琐事
 - 以这些类别为名，建立Folder
@@ -48,9 +52,10 @@ category: Design
 
 
 #### Review
-待续
+Review you project if you haven't decide when and how to do it.
+
 #### Defer Until
-待续
+Defer an item to a date until which you could deal with it, e.g. you can not select a seat for your flight until the day before you take the flight.
 
 
 
