@@ -6,6 +6,9 @@ category: Design
 
 OmniFocus依据Getting Things Done的理念设计，是一款帮助我们进行任务管理的工具。
 
+为什么要进行任务管理？ 因为：
+> Your mind is for having ideas, not holding them. - David Allen, Getting Things Done
+
 Note：OF3的Mac端有student discount（如果是从官网下载安装，而非AppStore），ios端没有。
 
 >The GTD method rests on the idea of moving planned tasks and projects out of the mind by recording them externally and then breaking them into actionable work items. This allows one to focus attention on taking action on tasks, instead of recalling them.
@@ -15,10 +18,12 @@ Note：OF3的Mac端有student discount（如果是从官网下载安装，而非
 所以，时刻把这一原则谨记在心，尽可能以简单的方式实现任务管理，避免被OF3这个工具可以实现的复杂功能牵着鼻子走。
 
 配合Omni Focus这一任务管理工具，我思考了任务的这些方面：
+
 #### Folder：我的任务大体分为哪几类？
 - 比如分为工作，爱好，娱乐，琐事
 - 以这些类别为名，建立Folder
 - 把相应的任务放进这些Folders
+- 把过大的project分解成多个project，用subfolder收纳
 
 #### Project：我们把一个相对大的任务叫做Project
 - 比如开发一个app，学习一门课程
@@ -29,9 +34,10 @@ Note：OF3的Mac端有student discount（如果是从官网下载安装，而非
 
 #### Tag：我要以何时，何地，以什么精神状态，用什么工具完成这些items
 - 我的tag设的比较简单
-- 时间（或地点）：只分白天（在办公室）和晚上（在寝室）
-- 精神状态：只分low energy和hight energy
-- 工具：我发现最好直接写在item标题里，因为太杂
+- 时间：只分白天(科研)和晚上9点后（业余爱好）
+- 地点：只能在手机上设置到达或离开提醒（如到达Fairprice买抽纸）
+- 精神状态：只分low energy和high energy
+- 工具：对于一些使用工具固定的project（Writing），直接加tag（Ulysses）在project上
 
 <a name="tag1"><img src="/assets/img/Tags.png" height="200"/></a>
 
