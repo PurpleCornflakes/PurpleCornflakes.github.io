@@ -8,6 +8,8 @@ OmniFocus依据Getting Things Done的理念设计，是一款帮助我们进行�
 
 为什么要进行任务管理？ 因为：
 > Your mind is for having ideas, not holding them. - David Allen, Getting Things Done
+But ideas are cheap, so I would rather say 
+> Your mind is to recognize great ideas and implement them, not holding them.
 
 Note：OF3的Mac端有student discount（如果是从官网下载安装，而非AppStore），ios端没有。
 
